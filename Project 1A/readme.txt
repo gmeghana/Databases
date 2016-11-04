@@ -1,0 +1,1 @@
+This project uses PHP to create a simple calculator.
